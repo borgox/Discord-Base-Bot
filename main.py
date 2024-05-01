@@ -2,7 +2,7 @@
 #* CONFIG
 TOKEN = "" #? es: MTObm832n3dskk2324...  - bot token, get one at: https://discord.com/developers/applications
 COMMAND_PREFIX = "" #? ex: !   - command prefix (like !help)
-PROXY = False #! Specify use of proxies False = No proxy True = Si proxy
+PROXY = False #! Specify use of proxies False = No proxy True = Yes proxy
 PROXYFILE = "proxies.txt" #! Don't edit this setting if you aren't using proxies
 OWNER_IDS = [] #? ex: OWNER_IDS = [1234, 5678]   -IDS of bot owner
 STATUS = "test"
